@@ -6,3 +6,5 @@ Ceci est le Défis SDL comportant un fichier BMP et PNG afficher et une animatio
 
 
 Vous déplacer l'Hélico à l'aide des touches "ZQSD".
+
+La différence entrer le SDL1 ET SDL2 c'est que pour commencer SDL1 est obsolète car il prend en charge moins de périphériques, moins de fonctionnalités  et il n'est pas très sécuriser.
