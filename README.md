@@ -2,3 +2,7 @@
 Défis SDL Animation du PNG et affichage de l'image BITMAP
 
 Ceci est le Défis SDL comportant un fichier BMP et PNG afficher et une animation de l'image PNG.
+
+
+
+Vous déplacer l'Hélico à l'aide des touches "ZQSD".
